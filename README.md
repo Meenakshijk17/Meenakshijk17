@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meenakshi Krishnakumar.
 - 👀 I’m interested in Data Science, Programming, Statistical Learning, Feature Engineering & Natural Language Processing.
-- I have a master's degree in mathematics and around two years of experience in processing, analyzing and deriving business insights from health care data.
+- I have a master's degree in mathematics and more than two years of experience in processing, analyzing and deriving business insights from health care data.
 - 📫 How to reach me
     - Email: meenakshi.krishnakumar.mk@gmail.com
     - LinkedIn:  www.linkedin.com/in/meenakshi-jk
