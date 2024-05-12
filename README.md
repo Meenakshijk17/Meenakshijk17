@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **meenakshi.krishnakumar.mk@gmail.com**
 
-- 💻 A list of my projects: [Project Index](https://github.com/Meenakshijk17/Index/blob/main/README.md)
+- 💻 A list of my projects: **[Project Index](https://github.com/Meenakshijk17/Index/blob/main/README.md)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
