@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/meenakshi-jk/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meenakshi-jk/ " height="30" width="40" /></a>
 <a href="mailto:meenakshi.krishnakumar.mk@gmail.com" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="meenakshi.krishnakumar.mk@gmail.com " height="25" width="35" /></a>
-<a href="https://meenakshijk17.github.io/" target="blank"><img align="center" src="https://github.com/Meenakshijk17/Meenakshijk17.github.io/blob/main/images/logo-white-on-transparent.png" alt="https://meenakshijk17.github.io/" height="35" width="45" /></a>
+<a href="https://sites.google.com/view/kmeens-meenakshi-krishnakumar" target="blank"><img align="center" src="https://github.com/Meenakshijk17/Meenakshijk17.github.io/blob/main/images/logo-white-on-transparent.png" alt="https://sites.google.com/view/kmeens-meenakshi-krishnakumar" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
