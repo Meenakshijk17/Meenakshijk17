@@ -1,20 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Meenakshi Krishnakumar</h1>
-<h3 align="left"> I'm a Data Scientist with 3+ years of industry experience in building data-driven solutions leveraging advanced Machine Learning, Deep Learning, and NLP techniques from US healthcare data. Experienced in Data Analytics, Data pipeline optimization and automation, collaborating with cross-functional teams, and delivering actionable business insights.</h3>
+<h3 align="left"> I'm a Data Professional with 3+ years of industry experience in building data-driven solutions leveraging advanced Machine Learning, Deep Learning, and NLP techniques from US healthcare data. Experienced in Data Analytics, Data pipeline optimization and automation, collaborating with cross-functional teams, and delivering actionable business insights.</h3>
 
 - 🔭 I’m currently working on **developing my skills and competencies in data through industry relevant projects.**
 
 - 🌱 I’m currently learning **MLOps and Cloud.**
 
-- 📫 How to reach me **meenakshi.krishnakumar.mk@gmail.com**
+- 🌐 My Personal Website: [KMeens](https://sites.google.com/view/kmeens-meenakshi-krishnakumar)
+
+- 📫 Email: **meenakshi.krishnakumar.mk@gmail.com**
 
 - 💻 A list of my projects: **[Project Index](https://github.com/Meenakshijk17/Index/blob/main/README.md)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/meenakshi-jk/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meenakshi-jk/ " height="30" width="40" /></a>
-<a href="mailto:meenakshi.krishnakumar.mk@gmail.com" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="meenakshi.krishnakumar.mk@gmail.com " height="25" width="35" /></a>
 <a href="https://sites.google.com/view/kmeens-meenakshi-krishnakumar" target="blank"><img align="center" src="https://github.com/Meenakshijk17/Meenakshijk17.github.io/blob/main/images/logo-white-on-transparent.png" alt="https://sites.google.com/view/kmeens-meenakshi-krishnakumar" height="35" width="45" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p> 
